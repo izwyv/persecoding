@@ -1,4 +1,4 @@
-first = input()
+first = input()  # or str(input())
 second = input()
 third = input()
 fourth = input()
